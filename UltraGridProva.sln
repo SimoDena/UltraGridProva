@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1267
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltraGridProva", "UltraProva\UltraGridProva.csproj", "{B8BE9A58-6001-430B-B4E2-0B9E3248E2E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infraFormulaFiltri", "infraFormulaFiltri\infraFormulaFiltri\infraFormulaFiltri.csproj", "{B11793BE-EB27-448F-85D5-E7B06A1FE9DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infraFormulaFiltri", "infraFormulaFiltri\infraFormulaFiltri.csproj", "{B11793BE-EB27-448F-85D5-E7B06A1FE9DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
